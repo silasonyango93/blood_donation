@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Menu">
+        <menu>
+            <item
+                android:id="@+id/nav_donor"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Donation Dashboard" />
+
+            <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Blood banks" />
+            <item
+                android:id="@+id/nav_update_profile"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Update Profile" />
+        </menu>
+    </item>
+
+    <item android:title="Search">
+        <menu>
+            <item
+                android:id="@+id/a"
+                android:icon="@drawable/ic_menu_send"
+                android:title="BloodGroup A+" />
+
+            <item
+                android:id="@+id/aminus"
+                android:icon="@drawable/ic_menu_send"
+                android:title="BloodGroup A-" />
+            <item
+                android:id="@+id/ab"
+                android:icon="@drawable/ic_menu_send"
+                android:title="BloodGroup AB+" />
+            <item
+                android:id="@+id/abminus"
+                android:icon="@drawable/ic_menu_send"
+                android:title="BloodGroup AB-" />
+            <item
+                android:id="@+id/b"
+                android:icon="@drawable/ic_menu_send"
+                android:title="BloodGroup B+" />
+
+            <item
+                android:id="@+id/bminus"
+                android:icon="@drawable/ic_menu_send"
+                android:title="BloodGroup B-" />
+            <item
+                android:id="@+id/o"
+                android:icon="@drawable/ic_menu_send"
+                android:title="BloodGroup O+" />
+
+            <item
+                android:id="@+id/ominus"
+                android:icon="@drawable/ic_menu_send"
+                android:title="BloodGroup O-" />
+
+
+        </menu>
+    </item>
+
+    <item android:title="Accessories">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Log Out" />
+
+        </menu>
+    </item>
+</menu>

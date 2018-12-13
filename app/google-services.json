@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1023638768318",
+    "firebase_url": "https://buda-675e0.firebaseio.com",
+    "project_id": "buda-675e0",
+    "storage_bucket": "buda-675e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023638768318:android:a2bbbe881ab57a0b",
+        "android_client_info": {
+          "package_name": "com.example.silasonyango.ewe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023638768318-rc48m9rinjc15bj1p1sf1kpdrk16f480.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBk56efJPeaktuT6V5d5OYuxhI8YXYEug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
